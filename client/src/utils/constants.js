@@ -1,6 +1,6 @@
 // --- CONFIGURATION ---
 // IMPORTANT: Change this base URL if your backend server runs on a different location.
-export const API_BASE_URL = 'https://ems-1-fkup.onrender.com';
+export const API_BASE_URL = 'https://ems-1-fkup.onrender.com/api';
 
 // Available roles for assignment
 export const EMPLOYEE_ROLES = ['employee', 'HR', 'admin'];
