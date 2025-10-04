@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log
+package-lock.json
+
+# Environment files
+*.env
+backend/.env
+client/.env
+
+# Build outputs / editors
+dist/
+build/
+.vscode/
+
+# Logs
+*.log
+npm-debug.log*
